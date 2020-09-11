@@ -12,6 +12,8 @@ class MovieGridCell: UICollectionViewCell {
     
     @IBOutlet weak var posterView: UIImageView!
     
+    //hello
+    
     
     
 }
